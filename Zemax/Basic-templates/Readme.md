@@ -44,7 +44,7 @@ This series shows how to add a relay lens to another optical system correctly.
     *   This file fixes the size problem by matching the relay lens's entrance pupil to the main system's exit pupil.
 
 *   **c) Using Real Lenses:** `Relay_exit_pupilMatched_real_Lens.zmx`
-    *   This file shows how to replace the perfect lens with real glass lenses without breaking the design. The key steps involve adding a powerless "dummy" lens (infinite radius). Then, optimizing using the PMVA operand to transfer optical power from the paraxial to the real lens. Safely deleting the now-redundant paraxial lens.
+    *   This file shows how to replace the perfect lens with real glass lenses without breaking the design. The key steps involve adding a powerless "dummy" lens (infinite radius). Then, optimizing using the `PMVA` operand to transfer optical power from the paraxial to the real lens. Safely deleting the now-redundant paraxial lens.
 
 ### 9. Ritchey-Chrétien Telescope with Corrector
 *   **File:** `RC_Lens.zmx`
