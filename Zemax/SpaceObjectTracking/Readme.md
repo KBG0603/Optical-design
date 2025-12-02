@@ -27,7 +27,7 @@ Design a **diffraction-limited** (as much as possible within constraints) refrac
 
 ## Files in this Repository
 
-- `Report.pdf` – Complete project report (LaTeX source also included)
+- `Report.pdf` – Complete project report
 - `Space_Application4.zmx` – **Ansys Zemax OpticStudio** file (Student Edition 2025 R1)
 
 ## Performance Summary
